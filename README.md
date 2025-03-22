@@ -1,7 +1,9 @@
 # CPTR 142: Project III – Spring-Mass-Damper Simulation
 
 ## Project Description
-This project simulates the behavior of a **spring-mass-damper system** by modeling the motion of a mass attached to a spring with damping. The system is governed by a **second-order differential equation**, and numerical methods are used to compute its response over time.
+This project simulates the behavior of a **spring-mass-damper system** by modeling the motion of a mass attached to a spring with damping. The system is governed by a **second-order differential equation**, and numerical methods are used to compute its response over time. In this coding assignment we are tasked to code in C++ and use git to save our work.
+
+
 
 ### Features
 - Add new springs with specific **spring constant (k), damping coefficient (c), and mass (m)**.
@@ -65,11 +67,10 @@ This project simulates the behavior of a **spring-mass-damper system** by modeli
 ### 1. Compile the Program
 #### Using Makefile (if available)
 Run the following command in the terminal:
-```sh
+
 make
 
-
-2. Run Test Inputs
+## Run Test Inputs
 
 Example 1: Adding a Valid Spring
 
@@ -152,11 +153,9 @@ Simulation started...
 [Simulation data]
 Simulation completed!
 
-Example 6: 
 
 
-
-Example 7: Invalid Menu Choice
+Example 6: Invalid Menu Choice
 
 Input:
 
@@ -175,3 +174,18 @@ Input:
 Output:
 
 Exiting program...
+
+
+
+## Project Summary
+
+- This Spring-Mass-Damper Simulation project showcases my ability to implement object-oriented programming (OOP) in C++ while utilizing numerical methods to simulate physical systems. It includes features like dynamic spring addition, simulation of motion using Euler’s method, input validation, and file handling.
+
+- Throughout this project, I worked extensively on designing the system architecture, writing efficient C++ code, handling user input validation, and implementing numerical simulations. I also utilized GitLab for version control and collaboration.
+
+- This project demonstrates my problem-solving skills, proficiency in C++, and ability to write structured, maintainable code. Future improvements could include graphical plots, improved numerical methods, better error handling, and more efficint file handling.
+
+- 🔗 GitHub Repository: https://github.com/Micsmicster/Spring-System-Simulation-Project-CPP- 
+- 🔗 LinkedIn Profle: https://www.linkedin.com/in/krittanatt-bhummabhuti-82b72a332/
+
+- Feel free to check out the project or reach out to me for collaborations or discussions! 🚀
